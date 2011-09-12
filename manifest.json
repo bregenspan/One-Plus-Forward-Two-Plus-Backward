@@ -1,0 +1,18 @@
+{
+  "name": "One Plus Forward Two Plus Backward",
+  "version": "10",
+  "homepage_url": "http://twitter.com/BenRegenspan",
+  "description": "This extension enhances Google+ by subtracting the ability to add rich media and limiting input to 140 characters.",
+  "icons": { "48": "icon.png", "128": "icon.png" },
+  "content_scripts": [
+    {
+      "matches": ["*://plus.google.com/*"],
+      "js": ["extlib/jquery.js", "extlib/jquery.dowhen.js", "extlib/buzz.js", "1plusf_2plusb.js"],
+      "css": ["1plusf_2plusb.css"]
+    }
+  ],
+  "permissions": [
+    "https://plus.google.com/",
+    "http://plus.google.com/"
+  ]
+}

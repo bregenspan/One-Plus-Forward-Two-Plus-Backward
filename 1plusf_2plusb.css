@@ -1,0 +1,7 @@
+#lama {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    z-index: 1000;
+    display: none;
+}

@@ -1,0 +1,10 @@
+ONE PLUS FORWARD TWO PLUS BACKWARD - (c) RegenspanTeractive
+---------------------------------------
+
+This is a Very Serious extension for Google Chrome that adds a Twitter-esque character limit to Google+. An image of His Holiness The Dalai Lama is used to remind overly verbose writers that simplicity leads to happiness.
+
+Third-party dependencies (included in "extlib" folder):
+
+* Buzz (1.0.4 beta) - http://buzz.jaysalvat.com/ - by Jay Salvat
+* jQuery (1.6.3) - http://jquery.com/
+* jQuery doWhen - https://github.com/epickerel/dowhen - by Emmett Pickerel
