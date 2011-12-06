@@ -1,7 +1,7 @@
 ONE PLUS FORWARD TWO PLUS BACKWARD - (c) RegenspanTeractive
 ===========================================================
 
-Desription
+Description
 ----------
 
 This is a Very Serious extension for Google Chrome that adds a Twitter-esque character limit to Google+. An image of His Holiness The Dalai Lama is used to remind overly verbose writers that simplicity leads to happiness.
